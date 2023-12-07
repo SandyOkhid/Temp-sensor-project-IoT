@@ -6,7 +6,27 @@ IoT och molntjänster
 
 Temp-sensor-project-IoT projekt
 
-Övervaka temperaturen i olika rum och styrning av klimatanläggningen.Jämföra inomhus- samt utomhus tempratur/luftfuktighet. Data insamligen inomhus kommer från en DHT11 sensor som är uppkopplat med en Raspberry pi 4 model B. Utomhus datan är taget från Openweathermap.
+Överblick av temperaturen i olika rum och styrning av klimatanläggningen.Jämföra inomhus- samt utomhus tempratur/luftfuktighet. Data insamligen inomhus kommer från en DHT11 sensor som är uppkopplat med en Raspberry pi 4 model B. Utomhus datan är taget från Openweathermap.
+
+Viktiga förklaringar:
+IoT (Internet of Things):
+
+Definition:
+Internet of Things (IoT) refererar till nätverket av fysiska objekt (såsom enheter, fordon, byggnader) som är inbäddade med sensorer, mjukvara och andra teknologier för att samla och utbyta data med varandra och med andra system över internet.
+
+Funktion:
+IoT möjliggör för enheter att vara anslutna och kommunicera för att samla in och dela data, vilket i sin tur möjliggör intelligent och automatiserad beslutsfattande. Exempel på IoT-tillämpningar inkluderar smarta hem, industriell automatisering, självkörande fordon och hälsomonitorering.
+Molntjänster (Cloud Services):
+
+Definition:
+Molntjänster refererar till leverans av datorresurser (såsom databaser, lagring, beräkningskraft, nätverk och mjukvara) över internet. Dessa resurser är tillgängliga på begäran och kan nås och hanteras över internet från en fjärrplats.
+
+Funktion:
+Molntjänster gör det möjligt för användare och organisationer att använda IT-resurser utan att behöva investera i eller underhålla den fysiska infrastrukturen. Det ger skalbarhet, flexibilitet och kostnadseffektivitet. Exempel på molntjänster inkluderar molndatabaser (t.ex., Amazon DynamoDB, Azure Cosmos DB), molnlagringslösningar (t.ex., Amazon S3, Google Drive) och molnberäkning (t.ex., AWS Lambda, Azure Virtual Machines).
+Integration av IoT och Molntjänster:
+
+IoT-enheter samlar in data från den fysiska världen, och molntjänster tillhandahåller plattformar för att lagra, analysera och utföra beräkningar på den insamlade datan. Genom att integrera IoT och molntjänster möjliggörs globala nätverk av enheter och data, vilket ger fördelar som skalbarhet, tillgänglighet och möjligheten att dra nytta av avancerade analysverktyg och maskininlärningsalgoritmer i molnet. Detta ger användarna möjlighet att dra slutsatser från data och genomföra åtgärder baserat på denna information.
+
 
 Bakgrund
 
@@ -98,3 +118,5 @@ Libraries:
 random
 adafruit_dht time board
 azure.iot.device IoTHubDeviceClient, Messag
+
+Reference : Google, AI Chatt 
