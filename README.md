@@ -10,6 +10,10 @@ Målet med projektet
 Jag har Skapat ett inomhustemperatursensorsystem för att övervaka och logga temperaturdata i realtid, med möjlighet till fjärrövervakning och anpassade larm.
 Målet med min portfolio projekt är att få bättre inblick på hur molntjänsten (Azure) fungerar och i första hand hur man bygger upp en IoT helhetslösning från början till slut. Det vill säga att koppla hårdvaran och programmera den. Skicka data till molnet som då lagras där och visualisera så att användaren kan se tempraturen både inomhus och utomhus(API) lätt och smidigt via powerbi appen som finns både till IOS och Andorid. Skapa ett inomhustemperatursensorsystem med hjälp av en Raspberry Pi-enhet för att övervaka och logga temperaturdata i realtid, med möjlighet till fjärrövervakning och anpassade larm.
 
+Arkitektur:
+![image](https://github.com/SandyOkhid/Temp-sensor-project-IoT/assets/94047075/a42bacca-b61f-417d-87f3-96a1670714f4)
+
+
 Projekt beskrivning
 
 Inomhus tempratur/fukt:
