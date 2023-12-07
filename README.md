@@ -1,4 +1,11 @@
 # Temp-sensor-project-IoT
+
+Sandra Okhidievbie IoT21
+
+IoT och molntjänster
+
+Temp-sensor-project-IoT projekt
+
 Övervaka temperaturen i olika rum och styrning av klimatanläggningen.Jämföra inomhus- samt utomhus tempratur/luftfuktighet. Data insamligen inomhus kommer från en DHT11 sensor som är uppkopplat med en Raspberry pi 4 model B. Utomhus datan är taget från Openweathermap.
 
 Bakgrund
@@ -45,12 +52,15 @@ Skalbarhet för den här produkten kan vara att tillexempel göra färre temprat
 Skapa ett inomhustemperatursensorsystem med hjälp av en Raspberry Pi-enhet för att övervaka och logga temperaturdata i realtid, med möjlighet till fjärrövervakning och anpassade larm.
 Komponenter och Tekniker:
 
-    Hårdvara:
+Hårdvara:
+![image](https://github.com/SandyOkhid/Temp-sensor-project-IoT/assets/94047075/ab3cf824-784f-4f93-bfd5-9464dabe0307)
+
+
         Raspberry Pi (t.ex., Raspberry Pi 4).
         Digital temperatursensor (t.ex., DS18B20).
         Anslutningskablar och eventuellt en LCD-skärm för lokal avläsning.
 
-    Programvara:
+Programvara:
         Raspbian (eller annat lämpligt operativsystem för Raspberry Pi).
         Python för kodutveckling.
         Flask eller annat ramverk för att skapa en enkel webbapplikation för fjärrövervakning.
