@@ -119,4 +119,12 @@ random
 adafruit_dht time board
 azure.iot.device IoTHubDeviceClient, Messag
 
+Visualisering på power Bi på mobil
+![image](https://github.com/SandyOkhid/Temp-sensor-project-IoT/assets/94047075/5d68cb07-c07e-455e-904f-6a5bc720d49e)
+
+Visualisering på power Bi på dektop
+file:///home/sandra/Downloads/IMG_4924.jpg
+
+
+
 Reference : Google, AI Chatt 
